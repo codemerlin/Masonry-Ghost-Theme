@@ -135,6 +135,7 @@ $font_31: 'sans-serif';
 	background: $color_alabaster_approx;
 	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 	border-radius: 2px;
+	color: $white;
 }
 
 //original selectors
